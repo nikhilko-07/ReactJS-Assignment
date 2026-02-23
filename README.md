@@ -63,3 +63,8 @@ Captured Result
 The complete end-to-end working demo video is available here:
 
 👉 Watch Demo Video
+## 🎥 Screen Recording
+
+End-to-end working demo video:
+
+👉 [Watch Here] https://drive.google.com/drive/folders/1qKGaZbYQbj-p7qnr6viXdhUt0ATHesLh?usp=drive_link
