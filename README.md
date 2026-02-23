@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <YOUR_REPO_LINK>
+git clone https://github.com/nikhilko-07/ReactJS-Assignment.git
 2️⃣ Navigate to Project Folder
 cd <PROJECT_FOLDER_NAME>
 3️⃣ Install Dependencies
